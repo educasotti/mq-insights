@@ -1,0 +1,5 @@
+is_global = true
+build_property.RootNamespace = MassTransitTutorial.Mappings
+build_property.ProjectDir = C:\workspaces\mqi\Infrastructure\Mappings\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,0 +1,14 @@
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.AssemblyInfoInputs.cache
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.AssemblyInfo.cs
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.csproj.CoreCompileInputs.cache
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.deps.json
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.dll
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.pdb
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.dll
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.dll
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.pdb
+C:\workspaces\mqi\Infrastructure\Mappings\bin\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.pdb
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.csprojAssemblyReference.cache
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.csproj.CopyComplete
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.dll
+C:\workspaces\mqi\Infrastructure\Mappings\obj\Debug\netcoreapp3.1\MassTransitTutorial.Mappings.pdb

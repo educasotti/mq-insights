@@ -1,0 +1,9 @@
+C:\workspaces\mqi\Domain\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.deps.json
+C:\workspaces\mqi\Domain\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.dll
+C:\workspaces\mqi\Domain\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.pdb
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.csprojAssemblyReference.cache
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.AssemblyInfoInputs.cache
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.AssemblyInfo.cs
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.csproj.CoreCompileInputs.cache
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.dll
+C:\workspaces\mqi\Domain\obj\Debug\netcoreapp3.1\MassTransitTutorial.Domain.pdb

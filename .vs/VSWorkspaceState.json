@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Api",
+    "\\Application",
+    "\\Domain",
+    "\\Domain\\Customer",
+    "\\Domain\\Customer\\Events"
+  ],
+  "SelectedNode": "\\Domain\\Customer\\Events\\CustmoerCreatedEvent.cs",
+  "PreviewInSolutionExplorer": false
+}

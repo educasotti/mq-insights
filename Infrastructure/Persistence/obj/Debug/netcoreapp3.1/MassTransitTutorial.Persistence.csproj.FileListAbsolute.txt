@@ -1,0 +1,12 @@
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.AssemblyInfoInputs.cache
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.AssemblyInfo.cs
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.csproj.CoreCompileInputs.cache
+C:\workspaces\mqi\Infrastructure\Persistence\bin\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.deps.json
+C:\workspaces\mqi\Infrastructure\Persistence\bin\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.dll
+C:\workspaces\mqi\Infrastructure\Persistence\bin\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.pdb
+C:\workspaces\mqi\Infrastructure\Persistence\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.dll
+C:\workspaces\mqi\Infrastructure\Persistence\bin\Debug\netcoreapp3.1\MassTransitTutorial.Domain.pdb
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.csprojAssemblyReference.cache
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.csproj.CopyComplete
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.dll
+C:\workspaces\mqi\Infrastructure\Persistence\obj\Debug\netcoreapp3.1\MassTransitTutorial.Persistence.pdb
